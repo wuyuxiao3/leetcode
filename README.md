@@ -1,2 +1,2 @@
 # leetcode
-leetcode problems
+learning Python and C++ programming by leetcode problems
