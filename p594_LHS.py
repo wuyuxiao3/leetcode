@@ -25,6 +25,6 @@ class Solution:
                 res = max(res, count[x] + count[x+1])
         return res
 
-        time    O(n)
-        space   O(n)
+        # time    O(n)
+        # space   O(n)
         
