@@ -1,2 +1,3 @@
 # leetcode
-learning Python and C++ by solving leetcode problems
+learning and practicing algorithms and data structures by solving leetcode problems
+Python and C++
